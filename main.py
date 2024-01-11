@@ -1,1 +1,1 @@
-from JSONSchema.main import JSONSchemaGenerator
+from JSONSchema.generator import JSONSchemaGenerator
